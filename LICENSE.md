@@ -1,4 +1,4 @@
-# 
+# automatic deribit trading bot Addon | webhook-support + futures-arbitrage offers the most advanced deribit trading bot, with webhook-support and futures-arbitrage. Ideal for
 
 
 
